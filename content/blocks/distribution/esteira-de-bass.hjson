@@ -1,0 +1,12 @@
+type: Conveyor
+health: 200
+description: o bass com suas propriedades magnéticas faz com que manter o iten na esteira se torne mais fácil possibilitando aumento ilimitado de velocidade. por segurança a velocidade foi limitada
+requirements:[
+  copper/1
+  lead/1
+  bass/2
+]
+category: distribution
+speed: 0.18
+displayedSpeed: 20
+research: armored-conveyor
