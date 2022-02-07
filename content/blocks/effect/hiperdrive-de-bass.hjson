@@ -1,0 +1,30 @@
+type: OverdriveProjector
+name: hiperdrive de bass
+description: usando bass e capaz de abastecer certos blocos com sua energia aumentando sua eficiência em todos os sentidos "vida e consumo de itens não estão inclusos".
+size: 2
+health: 720
+range: 164
+baseColor: ffff7c
+phaseColor: ffff00
+speedBoost: 3.360
+speedBoostPhase: 4.0
+useTime: 360
+phaseRangeBoost: 33
+consumes: {
+  power: 7
+  items: {
+    items: [
+    bass/1
+  ]
+  booster: true
+  optional: true
+  }
+}
+requirements: [
+  lead/135
+  silicon/55
+  titanium/75
+  bass/45
+]
+research: overdrive-projector
+category: effect
