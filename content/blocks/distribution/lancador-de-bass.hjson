@@ -1,0 +1,18 @@
+type: MassDriver
+health: 500
+name: lançador de bass
+description: uma versão pequena feita de Bass atira rápido permitindo melhor transporte de itens
+requirements: [
+  copper/20
+  silicon/30
+  bass/32
+]
+size: 1
+itemCapacity: 50
+reloadTime: 12
+range: 400
+consumes: {
+  power: 0.5
+}
+category: distribution
+research: mass-driver
