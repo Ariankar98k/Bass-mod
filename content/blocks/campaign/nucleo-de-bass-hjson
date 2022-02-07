@@ -1,0 +1,17 @@
+type: CoreBlock
+size: 4
+name:núcleo de bass 
+description: um núcleo com qualidade de todos os outro armazenamento grande vida alta e uma unidade forte e poderosa
+health: 7000
+itemCapacity: 8000
+unitCapModifier: 5
+unitType: spitfire-mk1
+thrusterLength: 3
+category: effect
+requirements: [
+  copper/400
+  lead/400
+  silicon/400
+  bass/400
+]
+research: core-shard
