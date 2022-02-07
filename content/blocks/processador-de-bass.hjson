@@ -1,0 +1,18 @@
+name: "processador de bass"
+type: LogicBlock
+description: "usando bass para melhorar a velocidade das conexões, o número de funções executadas aumenta exponencialmente"
+details: 
+instructionsPerTick: 75
+range: 550
+category: logic
+size: 2
+health: 500
+requirements: [ 
+  copper/50
+  lead/20
+  silicon/50
+  bass/5
+]
+consumes: {
+   power:0.5
+}
