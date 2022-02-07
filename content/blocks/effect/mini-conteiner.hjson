@@ -1,0 +1,12 @@
+type: StorageBlock
+size: 1
+name: conteiner de emergência
+description: ter recursos armazenados e muito útil o espaço escasso inspirou a criação deste bloco. usa bass para comprimir os objetos a ponto deles ficarem com 1/10 de seu tamanho original
+health: 1000
+itemCapacity: 1250
+category: effect
+requirements: [
+  copper/5 
+  lead/2 
+  bass/3
+]
